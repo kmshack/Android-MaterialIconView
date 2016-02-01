@@ -9,7 +9,6 @@ To produce the image as font ttf support any size with the vector method.
 
   
   
-
 Instructions
 -----------
 
@@ -37,10 +36,12 @@ iconColor is setting the color values of the icon and the color information, ico
 ```
 
 
+![screens](Android_MaterialIconView.gif)
+
+
 Very easy.
 
 
-  
 
 * Vector system much easier way than the image with each of the resources can be used a number of icons can be a material with a small capacity of 100kb.
 
