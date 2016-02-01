@@ -1,0 +1,7 @@
+<resources>
+    <declare-styleable name="MIView">
+        <attr name="iconName" format="string"/>
+        <attr name="iconSize" format="dimension"/>
+        <attr name="iconColor" format="color"/>
+    </declare-styleable>
+</resources>
