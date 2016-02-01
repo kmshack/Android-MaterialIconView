@@ -12,7 +12,7 @@ To produce the image as font ttf support any size with the vector method.
 Instructions
 -----------
 
-* “com.kmshack.material icon.MYView" custom made supports three attributes. iconName is setting the icons name of the material. A name that starts with "mi_" has already been defined by the String resource.
+* “com.kmshack.materialicon.MIView" custom made supports three attributes. iconName is setting the icons name of the material. A name that starts with "mi_" has already been defined by the String resource.
 iconColor is setting the color values of the icon and the color information, iconSize is setting the size of the icon.
 
 
